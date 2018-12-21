@@ -1,1 +1,1 @@
-A single perceptron learning using Python
+Single perceptron learning using Python
